@@ -3,8 +3,12 @@
 ## GH-PAGES LINK: https://yaroslavborshevsky812.github.io/colorPicker-slider/
 
 ## QUICK START
-> npm i
-> gulp watch style
+
+```
+    npm i
+    gulp watch style
+```
+
 
 
 ## DESCRIPTION
