@@ -9,6 +9,6 @@
 
 ## DESCRIPTION
 1. Choose what you want to change 
-![](images\Screenshot1.png)
+![](images/Screenshot1.png)
 2. Change it
-![](images\Screenshot2.png)
+![](images/Screenshot2.png)
